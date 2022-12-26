@@ -1,1 +1,1 @@
-# .github
+# Open Source SQL Benchmarks
